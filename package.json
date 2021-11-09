@@ -1,0 +1,18 @@
+{
+  "name": "heart-light",
+  "version": "1.0.0",
+  "description": "Simple Netlify site for controlling a light in the real world.",
+  "author": {
+    "name": "Will Boyd",
+    "email": "will@codersblock.com",
+    "url": "https://codersblock.com/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lonekorean/heart-light.git"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.6"
+  }
+}
